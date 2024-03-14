@@ -8,3 +8,5 @@ The Shiny application serves as an interactive tool for viewers to explore and p
  The documentary showcases visualizations such as scatter plots, bar plots, and pie charts, providing insights into the relationship between mood and song ratings.
 
 Moreover, the Shiny application offers a unique song recommendation feature based on the selected language and mood. By leveraging the ratings and mood information, viewers are presented with a top-rated song that aligns with their current emotional state.
+To View:
+http://127.0.0.1:3739/
